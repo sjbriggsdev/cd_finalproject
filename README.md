@@ -1,9 +1,8 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Coding Dojo Final Project
+## TBD
 
-**Authors**: Student1, Student2, Student3
+**Authors**: Steven Briggs
 
-The contents of this repository detail an analysis of the module one project. This analysis is detailed in hopes of making the work accessible and replicable.
 
 
 ### Business problem:
@@ -52,18 +51,4 @@ Please review the narrative of our analysis in [our jupyter notebook](./index.ip
 For any additional questions, please contact **email, email, email)
 
 
-##### Repository Structure:
 
-Here is where you would describe the structure of your repoistory and its contents, for exampe:
-
-```
-
-├── README.md               <- The top-level README for reviewers of this project.
-├── index.ipynb             <- narrative documentation of analysis in jupyter notebook
-├── presentation.pdf        <- pdf version of project presentation
-└── images
-    └── images               <- both sourced externally and generated from code
-└── data
-    └── 
-
-```
