@@ -1,7 +1,7 @@
 # Coding Dojo Final Project
 ## TBD
 
-**Authors**: Steven Briggs
+**Author**: Steven Briggs
 
 
 
