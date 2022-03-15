@@ -17,6 +17,9 @@
 > A collection of open/close prices as well as trading volumes for bitcoin since 2014.
 
 
+#### Option 2
+[Final Project Option 2](./Final_Project_Option_3.ipynbb)
 
+> A collection of patient metrics along with a final diagnosis of CHF (1 or 0).
 
 
